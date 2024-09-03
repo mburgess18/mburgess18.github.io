@@ -6,7 +6,7 @@
 name: Michael Burgess
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blog for CSI 220
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:mburgess2@washcoll.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: mburgess18
   instagram:
   linkedin:
   pinterest:
